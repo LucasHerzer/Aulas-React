@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(231, 231, 9);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(5, 23, 85);
+    font-size: 70px;
+    font-family: 'Gill Sans MT';
+    text-align: center;
+    align-self: center;
+}
+
+
+
+
